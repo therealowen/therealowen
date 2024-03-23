@@ -1,8 +1,9 @@
 ### Hi there 👋
-- 👨‍🔬 Skilled in Data Science, Machine Learning, Deep Learning (NLP, etc.)
+- 👨‍🔬 *Skilled in Data Science, Machine Learning, Deep Learning (NLP, etc.)*
 - 🎓 *Masters in Information Systems from Johns Hopkins University🏫*
 - 😃 *I’m interested in data science📊 and machine learning👾*
 - 🔗 *How to reach me: [LinkedIn](https://www.linkedin.com/in/yiqunhu/)*
+- 🧑‍💻 *Python, SQL, R, SAS, C++, HTML_CSS_JavaScript*
 - 🧗 *Fun fact: Rock Climbing*
 <br>
 
