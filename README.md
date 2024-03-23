@@ -19,6 +19,6 @@
 - Monthly Milk Production Forecast by Time Series Analysis (R), Supervised by Prof. Lelys Bravo de Guenni (UIUC)
   <img width="1297" alt="Screenshot 2024-03-23 at 12 03 16 PM" src="https://github.com/therealowen/therealowen/assets/31581639/7df4967a-4e18-4e61-9852-6a1460143865">
 
-**III. Website Dev Project:**
+**III. Web Dev Project:**
 - Johns Hopkins Developing Internet Systems and Services Course Projects using **HTML, CSS, JavaScript & SiteGround** for Deployment.
   ![image](https://github.com/therealowen/therealowen/assets/31581639/0bca4fde-80d0-435d-be8f-a657c70ea0c2)
