@@ -8,8 +8,8 @@
 <br>
 
 **I. Data Visualization Projects:**
-- National Park Biodiversity Visualization 
-- Baltimore Police Dept. Arrest Rate Visualization
+- National Park Biodiversity Visualization 👉 [dashboard](https://zhu98.shinyapps.io/DataVisualization/) | [code](https://github.com/therealowen/Data-Visualization-Projects-R-Shiny/tree/main/DataVisualization%20-%20Final) 
+- Baltimore Police Dept. Arrest Rate Visualization 👉  [dashboard](https://yiqun-h.shinyapps.io/appbdp22/) | [code](https://github.com/therealowen/Data-Visualization-Projects-R-Shiny/tree/main)
   <img width="1831" alt="Screenshot 2024-03-23 at 11 46 37 AM" src="https://github.com/therealowen/therealowen/assets/31581639/1e616bed-99b7-406d-b9f9-57471b41477d">
 
 **II. Machine Learning Projects:**
