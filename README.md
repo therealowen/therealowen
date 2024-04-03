@@ -4,7 +4,7 @@
 - 😃 *I’m interested in data science📊 and machine learning👾*
 - 🔗 *How to reach me: [LinkedIn](https://www.linkedin.com/in/yiqunhu/)*
 - 🧑‍💻 *Python, SQL, R, SAS, C++, HTML_CSS_JavaScript*
-- 🧗 *Fun fact: Rock Climbing*
+- 🧗 *Fun fact: Rock Climbing, Marathon* 
 <br>
 
 **I. Data Visualization Projects:**
